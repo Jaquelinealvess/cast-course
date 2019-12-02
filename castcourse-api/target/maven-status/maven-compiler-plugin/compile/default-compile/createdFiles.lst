@@ -1,0 +1,13 @@
+br\com\cast\avaliacao\event\RecursoCriadoEvent.class
+br\com\cast\avaliacao\exceptionhandler\AvaliacaoExceptionHandler$Erro.class
+br\com\cast\avaliacao\repository\CursoRepository.class
+br\com\cast\avaliacao\event\listner\RecursoCriadoListner.class
+br\com\cast\avaliacao\exceptionhandler\AvaliacaoExceptionHandler.class
+br\com\cast\avaliacao\service\CategoriaService.class
+br\com\cast\avaliacao\controller\CategoriaController.class
+br\com\cast\avaliacao\model\Categoria.class
+br\com\cast\avaliacao\repository\CategoriaRepository.class
+br\com\cast\avaliacao\model\Curso.class
+br\com\cast\avaliacao\service\CursoService.class
+br\com\cast\avaliacao\controller\CursoController.class
+br\com\cast\avaliacao\CastcourseApiApplication.class
